@@ -1,5 +1,5 @@
 name:
-   first: Anhad
-   last: Mohananey
-email: anhad@nyu.edu
+   first: Zhengyue
+   last: Cheng
+email: zc1112@nyu.edu
 leaderboard: Baseline
